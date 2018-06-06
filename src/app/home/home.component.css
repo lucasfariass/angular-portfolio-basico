@@ -1,0 +1,87 @@
+.sub-header{
+    height: 450px;
+    width: 100%;
+    overflow: hidden;
+    margin-top: -1.66%;    
+}
+
+
+.image-header{
+    position: relative;
+    width: 100%;
+}
+
+.banner{
+    position: absolute;
+    width: 500px;
+    margin-left: 1.8%;
+    margin-left: 1.8%;
+    margin-top: 20px;
+}
+
+.texto-menu{
+    position: absolute; 
+    top: 60px; 
+    margin-left: 31.3%;
+    margin-right: 31.3%;
+}
+
+
+#paragrafo{
+    text-align: center;
+    /* text-indent: 20px; */
+    color: white;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 225px;
+}
+
+
+#botao{
+    margin-left: 18%;
+    margin-right: 20%;
+    margin-top: 30px;
+    background: #6a58db ;
+    border-color: #6a58db;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px; 
+}
+
+.sociais{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logos-sociais{
+    width: 45%;
+    margin-top: 42px;
+    margin-left: 33%;
+    text-align: center;
+}
+
+.timeline{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.trabalhos{
+    padding-top: 30px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.imagem-trabalho{
+    width: 100%;
+}
+
+html{
+    min-height: 100%;
+    position: relative;
+}
+
+body{
+    padding-bottom: 150px; 
+}

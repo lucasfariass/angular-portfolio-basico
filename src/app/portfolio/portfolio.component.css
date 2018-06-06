@@ -1,0 +1,20 @@
+.paginas{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#titulo-paginas{
+    background: #6a58db;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: white;
+    margin-top: 60px;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#subtitulo-paginas{
+    margin-top: 70px;
+    color: #6a58db;
+    font-weight: 700;
+}
